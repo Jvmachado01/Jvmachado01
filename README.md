@@ -11,4 +11,4 @@ Java Backend Developer | AI, Data, and Cloud
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-vitor-machado-ba66b2190/)
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Jvmachado01&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph">
+
