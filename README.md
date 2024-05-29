@@ -11,4 +11,9 @@ Java Backend Developer | AI, Data, and Cloud
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-vitor-machado-ba66b2190/)
 
-[![Contributions](https://img.shields.io/github/last-commit/Jvmachado01/Jvmachado01)](https://github.com/Jvmachado01/Jvmachado01/graphs/contributors)
+## Contributions in the Last Year
+<div style="border: 1px solid #ccc; border-radius: 5px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); padding: 10px;">
+  <!-- Coloque o código gerado pelo GitHub Readme Stats aqui -->
+  [![Contributions](https://github-readme-stats.vercel.app/api?username=Jvmachado01&show_icons=true&theme=dark)](https://github.com/Jvmachado01)
+</div>
+
