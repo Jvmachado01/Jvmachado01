@@ -5,7 +5,7 @@ Java Backend Developer | AI, Data, and Cloud
 ## Languages I use the most on GitHub
 <div align="center">
  <a href="https://github.com/Jvmachado01">
- <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvmachado01&layout=compact&langs_count=6&theme=dark"/>
+ <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvmachado01&layout=compact&langs_count=6&theme=light"/>
  </a>
 </div>
 
