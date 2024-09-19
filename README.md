@@ -1,6 +1,6 @@
 # João Vitor Machado
 
-Java Backend Developer | AI, Data, and Cloud
+Java Backend Developer
 
 ## Languages I use the most on GitHub
 <div align="center">
